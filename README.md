@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 
 <!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JoaoVBonifacio&theme=tokyonight)](https://git.io/streak-stats)-->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JoaoVBonifacio&theme=tokyonight)](https://git.io/streak-stats)
-<img height="166em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovbonifacio&layout=compact&langs_count=7&theme=tokyonight"/>
+
+<p><img height="166em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovbonifacio&layout=compact&langs_count=7&theme=tokyonight"/></p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joaovbonifacio&label=Profile%20views&color=0e75b6&style=flat" alt="joaovbonifacio" /> </p>
