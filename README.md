@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoVBonifacio)](https://github.com/anuraghazra/github-readme-stats)-->
 
 <!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JoaoVBonifacio&theme=tokyonight)](https://git.io/streak-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JoaoVBonifacio&theme=tokyonight)](https://git.io/streak-stats)-->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JoaoVBonifacio&theme=tokyonight)](https://git.io/streak-stats)
 
-[![Mohammad Saifur Rahman's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=joaovbonifacio&theme=tokyonight&show_icons=true)](https://github.com/saifurrahman1193)
+[![Mohammad Saifur Rahman's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=joaovbonifacio&theme=tokyonight&show_icons=true)](https://github.com/saifurrahman1193)-->
 
 <p><img height="166em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovbonifacio&layout=compact&langs_count=7&theme=tokyonight"/></p>
 
